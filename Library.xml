@@ -1,0 +1,29 @@
+Library.xml
+<xml version='1.0'?>
+    <Library>     
+        <Technical Books>
+            <Data Science>
+                <isbn> 1234567890</isbn>
+                <Title> Data Analytics</Title>
+                <Author>Andrew Beatty</Author>
+            </Data Science>
+            <Construction>
+                <isbn> 9876543210</isbn>
+                <Title> Structural Drawings</Title>
+                <Author>Fiona Beatty</Author>
+            </Construction>
+        </Technical Books>
+        <Cookery Books>
+            <Pastery>
+                <isbn> 3214569870</isbn>
+                <Title> Cake Burns</Title>
+                <Author>Angela Beatty</Author>
+            </Pastery>
+            <Soups>
+                <isbn> 6547891230</isbn>
+                <Title> Appetizers</Title>
+                <Author>Fiona Beatty</Author>
+            </Soups>
+        </Cookery Books>
+
+        
